@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Machine learning and Web development
 - 🌱 I’m currently learning Python and machine learning algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at kubireddyharsha@gmail.com
 
 <!---
 kubireddy-spec/kubireddy-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
