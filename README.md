@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshavardhan reddy
 - 👀 I’m interested in Data Analysis, Machine learning and Web development
 - 🌱 I’m currently learning Python and machine learning algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web devlopment projects and data analysis.
 - 📫 You can reach me at kubireddyharsha@gmail.com
 
 <!---
